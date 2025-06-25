@@ -1,0 +1,9 @@
+data/
+model/
+.venv/
+build_ctx/
+mlruns/
+*.out
+__pycache__/
+*.pkl
+*.log

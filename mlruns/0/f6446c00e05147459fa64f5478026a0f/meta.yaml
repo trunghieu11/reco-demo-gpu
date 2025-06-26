@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/reco-demo-gpu/mlruns/0/f6446c00e05147459fa64f5478026a0f/artifacts
+end_time: 1750841482849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6446c00e05147459fa64f5478026a0f
+run_name: languid-toad-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841482844
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/reco-demo-gpu/mlruns/0/94012c8a74d148e6b2b9c5947e92b93f/artifacts
+end_time: 1750842387284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94012c8a74d148e6b2b9c5947e92b93f
+run_name: languid-moth-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842381597
+status: 3
+tags: []
+user_id: root

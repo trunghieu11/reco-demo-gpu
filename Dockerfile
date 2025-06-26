@@ -5,6 +5,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY src ./src
+COPY models/mf_best.pt /models/mf_best.pt
 ENV PYTHONPATH=/app/src
 ENV MODEL_PATH=/models/mf_best.pt
 EXPOSE 8080

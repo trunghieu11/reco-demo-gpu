@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/reco-demo-gpu/mlruns/0/7231338120cf46fb87eac3142d919de4/artifacts
+end_time: 1750841526447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7231338120cf46fb87eac3142d919de4
+run_name: marvelous-pig-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750841522655
+status: 3
+tags: []
+user_id: root

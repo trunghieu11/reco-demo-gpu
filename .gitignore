@@ -1,9 +1,47 @@
-data/
-model/
-.venv/
-build_ctx/
-mlruns/
-*.out
+# ───────── Python chung ─────────
 __pycache__/
-*.pkl
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# ───────── Môi trường ảo ─────────
+.venv/
+env/
+*.egg-info/
+
+# ───────── Data thô & trung gian ─────────
+data/
+datasets/
+*.csv
+*.parquet
+*.zip
+*.tar.gz
+
+# ───────── Model & checkpoint ─────────
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# ───────── Log, cache, tmp ─────────
+logs/
 *.log
+nohup.out
+*.tmp
+*.cache/
+wandb/
+tensorboard/
+
+# ───────── Build / Docker artefacts ─────────
+build_ctx/
+dist/
+*.whl
+*.egg
+.idea/
+.vscode/
+
+# ───────── OS / Editor ─────────
+.DS_Store
+Thumbs.db
+
